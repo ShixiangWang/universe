@@ -1,0 +1,66 @@
+[
+  {
+    "package": "UCSCXenaTools",
+    "url": "https://github.com/ShixiangWang/UCSCXenaTools"
+  },
+  {
+    "package": "UCSCXenaShiny",
+    "url": "https://github.com/openbiox/UCSCXenaShiny"
+  },
+  {
+    "package": "contribution",
+    "url": "https://github.com/openbiox/contribution"
+  },
+  {
+    "package": "sigminer",
+    "url": "https://github.com/ShixiangWang/sigminer"
+  },
+  {
+    "package": "sigminer.prediction",
+    "url": "https://github.com/ShixiangWang/sigminer.prediction"
+  },
+  {
+    "package": "rsra",
+    "url": "https://github.com/ShixiangWang/rsra"
+  },
+  {
+    "package": "IDConverter",
+    "url": "https://github.com/ShixiangWang/IDConverter"
+  },
+  {
+    "package": "regport",
+    "url": "https://github.com/ShixiangWang/regport"
+  },
+  {
+    "package": "neopeptides",
+    "url": "https://github.com/ShixiangWang/neopeptides"
+  },
+  {
+    "package": "ggpolar",
+    "url": "https://github.com/ShixiangWang/polar"
+  },
+  {
+    "package": "ezcox",
+    "url": "https://github.com/ShixiangWang/ezcox"
+  },
+  {
+    "package": "tidyscholar",
+    "url": "https://github.com/ShixiangWang/tidyscholar"
+  },
+  {
+    "package": "DoAbsolute",
+    "url": "https://github.com/ShixiangWang/DoAbsolute"
+  },
+  {
+    "package": "copynumber",
+    "url": "https://github.com/ShixiangWang/copynumber"
+  },
+  {
+    "package": "CNVMotif",
+    "url": "https://github.com/ShixiangWang/CNVMotif"
+  },
+  {
+    "package": "metawho",
+    "url": "https://github.com/ShixiangWang/metawho"
+  }
+]
