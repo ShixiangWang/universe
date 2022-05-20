@@ -11,7 +11,7 @@ df <- data.frame(
     "neopeptides",
     "ggpolar", #polar
     "ezcox",
-    "tidyscholar",
+    "tinyscholar",
     "DoAbsolute",
     "copynumber",
     "CNVMotif",
@@ -29,7 +29,7 @@ df <- data.frame(
     "https://github.com/ShixiangWang/neopeptides",
     "https://github.com/ShixiangWang/polar",
     "https://github.com/ShixiangWang/ezcox",
-    "https://github.com/ShixiangWang/tidyscholar",
+    "https://github.com/ShixiangWang/tinyscholar",
     "https://github.com/ShixiangWang/DoAbsolute",
     "https://github.com/ShixiangWang/copynumber",
     "https://github.com/ShixiangWang/CNVMotif",
